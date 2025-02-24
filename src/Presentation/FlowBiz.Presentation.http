@@ -1,0 +1,6 @@
+@FlowBiz.Presentation_HostAddress = http://localhost:5155
+
+GET {{FlowBiz.Presentation_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
