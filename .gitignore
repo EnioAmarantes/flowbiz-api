@@ -8,6 +8,12 @@
 
 *.crt
 
+# Ignorar arquivos de configuração de ambiente
+appsettings.*.json
+
+# Ignorar certificados
+*.crt
+
 # User-specific files
 *.rsuser
 *.suo
